@@ -13,9 +13,9 @@ I created a file called "covid_candy" - this is a simple program to be ran on an
 and their respective libraries, in combination with some random materials everyone should have around the house, to create and automate a candy dispensor while 
 keeping adequate social distance for Halloween.
 
-libraries : 
-stepper : https://www.arduino.cc/en/Reference/Stepper
-ping : https://www.arduino.cc/en/pmwiki.php?n=Tutorial/Ping
+libraries :     
+stepper : https://www.arduino.cc/en/Reference/Stepper    
+ping : https://www.arduino.cc/en/pmwiki.php?n=Tutorial/Ping    
 
 more details on build materials and assembly in my video :
 https://www.youtube.com/watch?v=1YM9E9QdrAw&list=PLPdLV4zebD7qAm10a-f3KoG1FcPN3KVdI&index=4
